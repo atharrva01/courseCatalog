@@ -65,4 +65,5 @@ Anyone with a wallet connected to the Coston2 testnet can interact with this con
 
 ---
 
-If you want deployment scripts, UI improvements, or enrollment/payment logic next — continue building.🔥
+<img width="1305" height="570" alt="image" src="https://github.com/user-attachments/assets/f80ffff1-7c22-4447-99ee-6ab060a38a64" />
+
